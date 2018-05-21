@@ -276,9 +276,9 @@ let g:instant_markdown_slow = 0
 let g:instant_markdown_autostart = 1
 
 
-let g:DoxygenToolkit_authorName="wenchuanbo, wenchuanbo@baidu.com"
+let g:DoxygenToolkit_authorName="xxx@gmail.com"
 let s:licenseTag = "  Copyright(C)"
-let s:licenseTag = s:licenseTag . " 2015 Baidu.com, Inc."
+let s:licenseTag = s:licenseTag . " xxx.com, Inc."
 let s:licenseTag = s:licenseTag . "All right reserved\<enter>"
 let g:DoxygenToolkit_licenseTag = s:licenseTag
 let g:DoxygenToolkit_briefTag_funcName="yes"
